@@ -3,5 +3,10 @@
 
 
 ### About
-- This repository is made for BAkaCraft Server. 
-- This repository meant for BakaCraft's admins usage and reference. 
+- This repository is made for BakaCraft Server. 
+- This repository meant for BakaCraft's admins usage and references.
+- All graphic or resources used in this are made by hand and some free-to-use.
+
+- Add-ons details
+- Name : BakaCraft Icons
+- type : Resource Pack
