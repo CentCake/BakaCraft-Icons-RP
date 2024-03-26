@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+		"name": "BakaCraft Icons",
+        "description": "BakaCraft server custom icon / emojis. Developed by HEXAREIS.",
+        "uuid": "43ab7325-d740-4cb3-b951-f7ab51685b72",
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description":  "BakaCraft Icons",
+            "type": "resources",
+            "uuid": "34493a04-cd34-4ae7-a1ab-ec7e69ceddf3",
+            "version": [1, 0, 0]
+        }
+    ]
+}
