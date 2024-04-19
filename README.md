@@ -9,7 +9,7 @@
 
 - Add-ons details
 - Name : BakaCraft Icons
-- type : Resource Pack
+- Type : Resource Pack
 
 ### Usage
 E1 Class Glyph
